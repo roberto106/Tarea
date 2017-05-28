@@ -1,0 +1,27 @@
+﻿Compilación iniciada a las 28/05/2017 0:20:55.
+     1>Proyecto "C:\Users\Roberto\Desktop\tarea1\shaders con imagenes\papu-framework-master\PapuEngine\PapuEngine.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainGame.cpp
+         MainGame.cpp
+     1>c:\users\roberto\desktop\tarea1\shaders con imagenes\papu-framework-master\papuengine\maingame.cpp(13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>c:\users\roberto\desktop\tarea1\shaders con imagenes\papu-framework-master\papuengine\maingame.cpp(32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\roberto\desktop\tarea1\shaders con imagenes\papu-framework-master\papuengine\maingame.cpp(38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\roberto\desktop\tarea1\shaders con imagenes\papu-framework-master\papuengine\maingame.cpp(43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\roberto\desktop\tarea1\shaders con imagenes\papu-framework-master\papuengine\maingame.cpp(49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Roberto\Desktop\tarea1\shaders con imagenes\papu-framework-master\Debug\PapuEngine.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib glew32.lib opengl32.lib glew32s.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Roberto\Desktop\tarea1\shaders con imagenes\papu-framework-master\Debug\PapuEngine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Roberto\Desktop\tarea1\shaders con imagenes\papu-framework-master\Debug\PapuEngine.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\GLS_Program.obj
+         Debug\ImageLoader.obj
+         Debug\IOManager.obj
+         Debug\main.obj
+         Debug\MainGame.obj
+         Debug\picoPNG.obj
+         Debug\ResourceManager.obj
+         Debug\Sprite.obj
+         Debug\TextureCache.obj
+         PapuEngine.vcxproj -> C:\Users\Roberto\Desktop\tarea1\shaders con imagenes\papu-framework-master\Debug\PapuEngine.exe
+     1>Compilación del proyecto terminada "C:\Users\Roberto\Desktop\tarea1\shaders con imagenes\papu-framework-master\PapuEngine\PapuEngine.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.26
